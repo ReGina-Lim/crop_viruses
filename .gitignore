@@ -1,0 +1,15 @@
+.DS_Store
+.ipynb_checkpoints/
+
+# ignore ALL .log files
+*.log
+
+# ignore all csv created by the script
+class.csv
+family.csv
+genus.csv
+kingdom.csv
+order.csv
+phylum.csv
+realm.csv
+species_table2.csv
